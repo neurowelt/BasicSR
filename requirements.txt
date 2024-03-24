@@ -2,7 +2,7 @@ addict
 future
 lmdb
 numpy>=1.17
-opencv-python-contrib
+opencv-contrib-python
 Pillow
 pyyaml
 requests
